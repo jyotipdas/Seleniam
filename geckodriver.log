@@ -1,0 +1,33 @@
+1511946729220	geckodriver	INFO	geckodriver 0.19.1
+1511946729232	geckodriver	INFO	Listening on 127.0.0.1:38227
+1511946731227	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\jdas\\AppData\\Local\\Temp\\rust_mozprofile.KSZpb4El5g4V"
+1511946733576	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\jdas\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jdas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1511946737965	Marionette	INFO	Listening on port 38245
+1511946738032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511946738109	Marionette	DEBUG	Register listener.js for window 4294967297
+1511946738244	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1511946774260	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1511946774260	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1511946829503	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.makemytrip.com/"
+1511946830398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.makemytrip.com/"
+1511946892020	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1511946940045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.makemytrip.com/"
+1511947004515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+Unable to read VR Path Registry from C:\Users\jdas\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://311c47d7.webengage.co/storage-frame-1.15.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=311c47d7, line 1: TypeError: e.parent is null
+[Parent 4800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jdas\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\jdas\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
